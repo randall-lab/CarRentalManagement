@@ -20,17 +20,11 @@ namespace CarRentalManagement.Configurations.Entities
                 },
                 new Colour
                 {
-   
                     Id = 2,
-   
                     Name = "Blue",
-   
                     DateCreated = DateTime.Now,
-   
-                    DateUpdated = DateTime.Now,
-   
-                    CreatedBy = "System",
-   
+                    DateUpdated = DateTime.Now,   
+                    CreatedBy = "System",   
                     UpdatedBy = "System"
                 }
                 );
